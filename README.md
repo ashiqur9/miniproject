@@ -1,3 +1,3 @@
 # miniproject
 
-I am publish Linux Blog in my website [Linovox.com](https://linovox.com)
+I am publish Linux Blog in my website [I'm an inline-style link](https://www.google.com)
